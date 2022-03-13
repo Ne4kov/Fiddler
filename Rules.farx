@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AutoResponder LastSave="2022-03-13T21:07:05.8435311+03:00" FiddlerVersion="5.0.1.0">
+  <State Enabled="true" AcceptAllConnects="false" Fallthrough="true" UseLatency="false">
+    <ResponseRule Match="{&quot;matches&quot;:[&quot;^^NA==*Y29udGFpbnM=*MTYyLjU1LjIyMC43Mjo1MDA1&quot;],&quot;matchCondition&quot;:1}" Action="[&quot;^^NA==**cmVwbGFjZQ==*MzE=*NDU=&quot;]" Comment="Age" Enabled="false" />
+    <ResponseRule Match="{&quot;matches&quot;:[&quot;^^NA==*Y29udGFpbnM=*MTYyLjU1LjIyMC43Mjo1MDA1&quot;],&quot;matchCondition&quot;:1}" Action="[&quot;^^NA==**cmVwbGFjZQ==*NTAw*MTAwMA==&quot;]" Comment="Salary" Enabled="false" />
+    <ResponseRule Match="{&quot;matches&quot;:[&quot;^^NA==*Y29udGFpbnM=*MTYyLjU1LjIyMC43Mjo1MDA1&quot;],&quot;matchCondition&quot;:1}" Action="[&quot;^^NA==**cmVwbGFjZQ==*NTAw*&quot;]" Comment="Delete Salary 1" Enabled="false" />
+    <ResponseRule Match="{&quot;matches&quot;:[&quot;^^NA==*Y29udGFpbnM=*MTYyLjU1LjIyMC43Mjo1MDA1&quot;],&quot;matchCondition&quot;:1}" Action="[&quot;^^NQ==**cmVwbGFjZQ==*cWFfc2FsYXJ5X2FmdGVyXzZfbW9udGhz*cWFfc2FsYXJ5X2FmdGVyXzEwX21vbnRocw==&quot;]" Comment="6 month" Enabled="false" />
+    <ResponseRule Match="{&quot;matches&quot;:[&quot;^^NA==*Y29udGFpbnM=*MTYyLjU1LjIyMC43Mjo1MDA1&quot;],&quot;matchCondition&quot;:1}" Action="[&quot;^^NQ==**cmVwbGFjZQ==*MTY1MA==*Nzc3Nzc3Nzc3&quot;]" Comment="1_5_year" Enabled="false" />
+    <ResponseRule Match="{&quot;matches&quot;:[&quot;^^NA==*Y29udGFpbnM=*MTYyLjU1LjIyMC43Mjo1MDA1&quot;],&quot;matchCondition&quot;:1}" Action="[&quot;^^NQ==**cmVwbGFjZQ==*cGVyc29u*&quot;]" Comment="Person" Enabled="false" />
+    <ResponseRule Match="{&quot;matches&quot;:[&quot;^^NA==*Y29udGFpbnM=*MTYyLjU1LjIyMC43Mjo1MDA1&quot;],&quot;matchCondition&quot;:1}" Action="[&quot;^^Mw==*Q29udGVudC1UeXBl*cmVwbGFjZQ==*YXBwbGljYXRpb24vanNvbg==*YXBwbGljYXRpb24veG1s&quot;]" Comment="JSON-XML" Enabled="false" />
+  </State>
+</AutoResponder>
